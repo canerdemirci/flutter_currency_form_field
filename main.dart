@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kkasgariyathesap/constants.dart' show appTitle;
-import 'package:kkasgariyathesap/pages/Home/home.dart';
+import 'package:./constants.dart' show appTitle;
+import 'package:./pages/Home/home.dart';
 
 void main() {
   runApp(const MyApp());
